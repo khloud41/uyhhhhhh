@@ -1,0 +1,93 @@
+
+.name{width: 100%;
+height:40px ;
+background-color: rgb(237, 233, 233);}
+
+.navbar .nav-link{color: rgb(6, 99, 87);}
+
+.name.nav-link-active{color: rgb(6, 99, 87);}
+
+.containerr img{height: 600px;}
+
+.container-fluid a img{ border-radius: 50px;}
+
+.collapse ul {margin: auto;}
+
+/* navbar */
+
+.container0{margin: 50px;
+margin-top: 200px;}
+.container0 .col .card{ 
+height: 600px;
+border-radius: 30px;}
+
+.container0 .col .card .btn {margin: auto;
+padding: 10px;
+margin-top:20px ;}
+
+.container0 .col .card p{padding: 5px;
+margin: 5px;px }
+
+.container0 .col .card img{width: 100%   ;
+height: 400px;
+object-fit:cover }
+
+/* .container0 home */
+
+.container1{ display: flex;
+margin: 50px;}
+
+
+.container1 .col .card{ 
+border-radius: 30px;}
+
+.container1 .col .card .btn {margin: auto;
+padding: 10px;
+margin:20px ;
+border-style: hidden;}
+/* .container1-about */
+
+
+
+
+.container3{ margin-top: 50px;}
+
+.container3 .container4{ padding: 20px;
+margin-left: 70px;}
+
+
+/* .container3 */
+.carousel { width: 800px;
+height:800px}
+
+#carouselExampleCaptions { padding-top: 100px;
+height: 700px; margin:auto ;}
+
+
+
+#carouselExampleCaptions .carousel-inner img{ height:50%px ;width:100%; border-radius: 40px;
+    margin: auto;}
+
+
+.carousel-indicators [data-bs-target] {
+    box-sizing: content-box;
+    flex: 0 1 auto;
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    padding: 0;
+    margin-right: 3px;
+    margin-left: 3px;
+    text-indent: -999px;
+    cursor: pointer;
+    background-color: var(--bs-carousel-indicator-active-bg);
+    background-clip: padding-box;
+    border: 0;
+    border-top: 10px solid transparent;
+    border-bottom: 10px solid transparent;
+    opacity: .5;
+    transition: opacity .6s ease;}
+
+    .carousel-indicators .active{background-color: rgba(222, 211, 7, 0.871);}
+     
+      /* carousel */
